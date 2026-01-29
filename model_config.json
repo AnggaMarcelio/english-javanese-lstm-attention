@@ -1,0 +1,10 @@
+{
+    "eng_vocab_size": 5545,
+    "jv_vocab_size": 5500,
+    "max_len_eng": 34,
+    "max_len_jv": 28,
+    "embedding_dim": 300,
+    "jv_embedding_dim": 300,
+    "lstm_units": 128,
+    "dropout_rate": 0.5
+}

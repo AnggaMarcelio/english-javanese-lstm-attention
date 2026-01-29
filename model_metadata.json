@@ -1,0 +1,20 @@
+{
+    "eng_vocab_size": 5545,
+    "jv_vocab_size": 5500,
+    "max_len_eng": 34,
+    "max_len_jv": 28,
+    "embedding_dim": 300,
+    "jv_embedding_dim": 300,
+    "lstm_units": 128,
+    "dropout_rate": 0.5,
+    "batch_size": 64,
+    "learning_rate": 0.005,
+    "total_params": 4528088,
+    "training_samples": 8121,
+    "validation_samples": 1015,
+    "best_epoch": 56,
+    "best_val_loss": 0.8017308712005615,
+    "best_val_accuracy": 0.8996899127960205,
+    "epochs_trained": 63,
+    "training_time_minutes": 193.54603425661722
+}

@@ -9,14 +9,3 @@ venv/
 __pycache__/
 *.pyc
 
-# Data
-*.csv
-*.en
-*.jv
-
-# Models
-*.keras
-*.json
-*.pkl
-*.h5
-*.png
